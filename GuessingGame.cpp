@@ -1,6 +1,10 @@
 #include <iostream>
 #include <cmath>
 #include <random>
+/* FreeCodeCamp: https://www.youtube.com/watch?v=vLnPwxZdW4Y
+   Github: https://github.com/CodeCamper999
+   Random lib: https://cplusplus.com/reference/random/uniform_int_distribution/#google_vignette
+*/
 
 
 using namespace std;
